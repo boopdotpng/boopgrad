@@ -8,3 +8,7 @@ A machine learning library built for educational and understanding purposes. GPU
 ### docs / blog
 1. I hope to write about this a lot during development and explain the core concepts. No guarantees though!
 
+### developing
+1. Create a virtual environment. `python3 -m venv .venv`
+2. Install packages. `pip install -r requirements-dev.txt`
+3. `pip install -e .` to install the package locally in editing mode. 
