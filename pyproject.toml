@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "boopgrad"
 version = "0.1.0"
-description = ""
+description = "an educational machine learning library with gpu support"
 authors = ["anuraag <anuraag.warudkar@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 
 
 [build-system]
